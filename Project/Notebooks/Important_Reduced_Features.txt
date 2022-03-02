@@ -1,0 +1,9 @@
+XGBoost Features:
+Importance Threshold = 0.012
+
+['acc_x_MEAN','acc_x_VAR','acc_y_MEAN','acc_y_VAR','acc_z_MEAN','acc_z_VAR','gyro_x_VAR','acc_x/acc_y','acc_x/acc_z', 'acc_x_freq_0','acc_x_freq_4','acc_y_freq_0','acc_z_freq_0','acc_z_freq_4','acc_x/acc_y_freq_0','acc_y/acc_z_freq_2','acc_y/acc_z_freq_3','acc_x_wavfreq_62','acc_y_wavfreq_48']
+
+Random Forest Features:
+Importance Threshold = 0.02
+
+['acc_x_VAR','acc_y_MEAN','acc_y_VAR','acc_z_MEAN','acc_z_VAR','gyro_x_VAR','gyro_y_VAR','gyro_z_VAR','acc_x_freq_0','acc_x_freq_3','acc_x_freq_4','acc_y_freq_0','acc_z_freq_0','acc_z_freq_3','acc_z_freq_4','acc_x_wavfreq_62','acc_y_wavfreq_48']
