@@ -19,12 +19,11 @@ Being able to:
 ## Technologies Used
 
 1. Python
-2. PyTorch
-3. DNNs
-4. CNNs
-5. RNNs
-6. Computer Vision
-7. Machine Learning
+2. Machine Learning
+3. Scikit-Learn
+4. Data Analytics
+5. BASH
+6. Inertial Measurement Unit
 
 ## Repository Content
 
