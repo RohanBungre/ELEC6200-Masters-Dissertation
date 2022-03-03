@@ -27,8 +27,8 @@ Being able to:
 
 ## Repository Content
 
-This repository contains code and reports for 8 different labs and a piece of coursework.
+This repository contains work from my Masters Dissertation Group Project.
 
-Each lab demonstrates a different fundamental aspect of deep learning.
+The project was about using machine learning techniques to recognise the activity of African Wild Dogs solely from movement data from an IMU.
 
-The coursework demonstrates being able to reproduce results from another research paper and critique its findings.
+This project demonstrated the ability to implement an entire data pipelined machine learning process.
