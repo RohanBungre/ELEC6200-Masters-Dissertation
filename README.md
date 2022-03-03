@@ -1,4 +1,4 @@
-# ELEC6200-Masters-Dissertation
+# ELEC6200 Masters Dissertation
 
 ## Module Description
 This module provides an introduction to intensive group project work in collaboration with an industrial or academic customer. Students work in groups of at least four people on a project typically based on an idea from an industrial partner, or from an academic research project looking to transfer technology to industry or build a demonstrator/proof of concept.
